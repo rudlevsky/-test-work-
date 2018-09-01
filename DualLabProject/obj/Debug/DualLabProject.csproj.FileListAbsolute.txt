@@ -1,0 +1,7 @@
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\bin\Debug\DualLabProject.exe.config
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\bin\Debug\DualLabProject.exe
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\bin\Debug\DualLabProject.pdb
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\obj\Debug\DualLabProject.csprojAssemblyReference.cache
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\obj\Debug\DualLabProject.csproj.CoreCompileInputs.cache
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\obj\Debug\DualLabProject.exe
+C:\Users\rudle\Desktop\DualLabProject\DualLabProject\obj\Debug\DualLabProject.pdb
